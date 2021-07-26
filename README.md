@@ -8,7 +8,7 @@ Ryan Do - rd586@drexel.edu
 # Technologies
 - React
 - Typescript
-- Apollo
+- URQL
 - Node.js
 - PostgreSQL
 - MikroORM
