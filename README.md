@@ -15,4 +15,4 @@ Ryan Do - rd586@drexel.edu
 - Redis
 - Next.js
 - TypeGraphQL
-- Charkra
+- ChakraUI
