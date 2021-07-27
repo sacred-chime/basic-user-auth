@@ -1,4 +1,4 @@
-## Basic User Authentiation
+## Basic User Authentication
 
 # Technologies
 - React
